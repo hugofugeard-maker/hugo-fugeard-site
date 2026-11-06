@@ -6,7 +6,7 @@
   "nav": {
     "about": "Qui suis-je",
     "offers": "Mes services",
-    "approach": "Ma cuisine",
+    "approach": "Mon travail",
     "process": "Comment ça marche",
     "faq": "Questions",
     "contact": "Contact",
@@ -74,7 +74,7 @@
     "imageAlt": "Hugo en cuisine, souriant"
   },
   "approach": {
-    "title": "Ma cuisine",
+    "title": "Mon travail",
     "intro": "Chaque groupe, chaque lieu est différent. Je m'adapte à chaque situation.",
     "items": [
       {

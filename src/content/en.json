@@ -6,7 +6,7 @@
   "nav": {
     "about": "About",
     "offers": "Services",
-    "approach": "My cooking",
+    "approach": "My work",
     "process": "How it works",
     "faq": "Questions",
     "contact": "Contact",
@@ -74,7 +74,7 @@
     "imageAlt": "Hugo in the kitchen, smiling"
   },
   "approach": {
-    "title": "My cooking",
+    "title": "My work",
     "intro": "Every group and every place is different. I adapt to every situation.",
     "items": [
       {
