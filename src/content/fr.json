@@ -16,7 +16,7 @@
   "hero": {
     "eyebrow": "Chef privé · Alpes françaises et suisses · Annecy",
     "title": "Votre chef privé, là où vous séjournez.",
-    "text": "Je m'appelle Hugo. L'hiver, je cuisine dans les chalets de Courchevel, Méribel, Megève, Val d'Isère, Verbier et Gstaad. Toute l'année, je cuisine aussi chez vous, à Annecy et autour. Une cuisine française et italienne, travaillée avec soin et servie à votre table.",
+    "text": "L'hiver, je cuisine dans les chalets de Courchevel, Méribel, Megève, Val d'Isère, Verbier et Gstaad. Toute l'année, je cuisine aussi chez vous, à Annecy et autour. Une cuisine française et italienne, travaillée avec soin et servie à votre table.",
     "primaryButton": "M'écrire sur WhatsApp",
     "secondaryButton": "Envoyer un e-mail",
     "image": "hero.jpg",
@@ -64,7 +64,7 @@
     ]
   },
   "about": {
-    "title": "Bonjour, moi c'est Hugo",
+    "title": "Qui suis-je",
     "paragraphs": [
       "Je suis chef privé. Mon métier, c'est de venir là où vous êtes, pour que vous n'ayez à penser à rien d'autre qu'à vos proches.",
       "Mes cuisines de prédilection sont la française et l'italienne : de beaux produits, des saveurs franches, des plats travaillés avec soin, des grands classiques aux assiettes plus raffinées. Et si vous avez d'autres envies, je m'adapte.",
