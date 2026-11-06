@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Hugo Fugeard · Chef privé en France et en Europe",
-    "description": "Chef privé basé à Annecy. Je cuisine pour les familles et les groupes en chalet, en villa ou en manoir : Courchevel, Megève, Val d'Isère, Verbier, Saint-Tropez, Normandie… partout en France et en Europe."
+    "title": "Hugo Fugeard · Chef privé dans les Alpes et à Annecy",
+    "description": "Chef privé en chalet l'hiver à Courchevel, Méribel, Megève, Val d'Isère, Verbier et Gstaad. Toute l'année, chef privé à Annecy et autour pour vos dîners et vos événements. Cuisine française et italienne."
   },
   "nav": {
     "about": "Qui suis-je",
-    "destinations": "Où je cuisine",
+    "offers": "Mes services",
     "approach": "Ma cuisine",
     "process": "Comment ça marche",
     "faq": "Questions",
@@ -14,13 +14,54 @@
     "skip": "Aller au contenu"
   },
   "hero": {
-    "eyebrow": "Chef privé · Partout en France et en Europe",
+    "eyebrow": "Chef privé · Alpes françaises et suisses · Annecy",
     "title": "Votre chef privé, là où vous séjournez.",
-    "text": "Je m'appelle Hugo. Je viens cuisiner dans votre chalet, votre villa ou votre manoir, pour un dîner ou pour tout votre séjour. Une cuisine française et italienne, travaillée avec soin et servie à votre table. Vous, vous profitez de vos proches.",
+    "text": "Je m'appelle Hugo. L'hiver, je cuisine dans les chalets de Courchevel, Méribel, Megève, Val d'Isère, Verbier et Gstaad. Toute l'année, je cuisine aussi chez vous, à Annecy et autour. Une cuisine française et italienne, travaillée avec soin et servie à votre table.",
     "primaryButton": "M'écrire sur WhatsApp",
     "secondaryButton": "Envoyer un e-mail",
     "image": "hero.jpg",
     "imageAlt": "Une longue table dressée sous les arbres, prête pour un repas à partager"
+  },
+  "offers": {
+    "title": "Deux façons de faire appel à moi",
+    "items": [
+      {
+        "title": "L'hiver, en chalet",
+        "places": "Courchevel · Méribel · Megève · Val d'Isère · Verbier · Gstaad",
+        "text": "Chef privé pour votre séjour au ski. Tous les repas ou seulement les dîners, pour quelques jours ou toute la semaine.",
+        "button": "Réserver mon séjour",
+        "message": "Bonjour Hugo ! J'aimerais un chef privé pour notre séjour en chalet. Station : ... Dates : ... Nombre de personnes : ..."
+      },
+      {
+        "title": "Toute l'année, à Annecy et autour",
+        "places": "Annecy · Lac d'Annecy · Haute-Savoie",
+        "text": "Chef privé pour un dîner, un anniversaire ou un événement chez vous.",
+        "button": "Organiser un dîner",
+        "message": "Bonjour Hugo ! J'aimerais organiser un repas chez moi. Lieu : ... Date : ... Nombre de personnes : ... Occasion : ..."
+      }
+    ],
+    "note": "Et partout ailleurs en France, sur demande."
+  },
+  "promise": {
+    "title": "Ma promesse",
+    "items": [
+      {
+        "title": "Discrétion",
+        "text": "Ce qui se passe à votre table reste à votre table. Je ne photographie pas mes clients et je ne cite jamais de noms."
+      },
+      {
+        "title": "Sur mesure",
+        "text": "Pas de menu imposé. Chaque menu est construit avec vous, selon vos goûts et vos envies, et celles des enfants."
+      },
+      {
+        "title": "C'est moi qui cuisine",
+        "text": "Pas de remplaçant : c'est moi qui suis aux fourneaux, du premier au dernier repas."
+      },
+      {
+        "title": "Chacun mange bien",
+        "text": "Allergies, intolérances, végétarien, sans gluten : chaque convive a une assiette pensée pour lui."
+      }
+    ]
   },
   "about": {
     "title": "Bonjour, moi c'est Hugo",
@@ -31,24 +72,6 @@
     ],
     "image": "hugo.jpg",
     "imageAlt": "Hugo en cuisine, souriant"
-  },
-  "destinations": {
-    "title": "Où je cuisine",
-    "intro": "Basé à Annecy, je me déplace partout en France et en Europe.",
-    "items": [
-      {
-        "title": "À la montagne",
-        "text": "Chalets à Courchevel, Megève, Val d'Isère et Méribel, et en Suisse à Verbier et Gstaad."
-      },
-      {
-        "title": "En bord de mer",
-        "text": "Villas à Saint-Tropez, Saint-Jean-Cap-Ferrat et sur toute la Côte d'Azur."
-      },
-      {
-        "title": "À la campagne",
-        "text": "Manoirs et grandes demeures, en Normandie et ailleurs."
-      }
-    ]
   },
   "approach": {
     "title": "Ma façon de cuisiner",
@@ -150,7 +173,7 @@
       },
       {
         "question": "Vous vous déplacez hors de France ?",
-        "answer": "Oui. Je suis basé à Annecy et je me déplace partout en France et en Europe. Le déplacement est inclus dans votre proposition."
+        "answer": "Oui. L'hiver, je travaille surtout dans les stations des Alpes françaises et suisses. Le reste de l'année, je cuisine à Annecy et autour, et je me déplace partout en France sur demande. Le déplacement est inclus dans votre proposition."
       },
       {
         "question": "La maison est difficile d'accès. C'est un problème ?",
@@ -175,8 +198,8 @@
     ]
   },
   "partners": {
-    "title": "Vous gérez un chalet, une villa ou un manoir ?",
-    "text": "Propriétaires, conciergeries, agences de location : proposez l'option chef privé à vos clients. Je prépare les menus avec eux et je cuisine sur place pendant leur séjour.",
+    "title": "Vous gérez des chalets ?",
+    "text": "Conciergeries, agences de location, propriétaires à Courchevel, Méribel, Megève, Val d'Isère, Verbier ou Gstaad : proposez l'option chef privé à vos clients. Je prépare les menus avec eux et je cuisine sur place pendant leur séjour.",
     "button": "Me contacter",
     "emailSubject": "Option chef privé pour mes clients"
   },
@@ -189,7 +212,7 @@
     "emailSubject": "Demande de chef privé"
   },
   "footer": {
-    "tagline": "Chef privé · Basé à Annecy · France et Europe",
+    "tagline": "Chef privé · Alpes françaises et suisses · Annecy",
     "rights": "Tous droits réservés."
   }
 }

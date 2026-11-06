@@ -120,6 +120,15 @@ details p { color: var(--muted-on-dark); padding-right: 40px; }
 .partners p { color: var(--muted); font-size: 1.15rem; }
 .partners .buttons { justify-content: center; }
 
+.pillars.two { grid-template-columns: repeat(2, 1fr); }
+.pillars.four { grid-template-columns: repeat(4, 1fr); }
+.pillars .places { font-family: var(--font-display); font-style: italic; font-size: 1.2rem; color: var(--gold-dark); margin-bottom: 0.8em; }
+.pillars .buttons { margin-top: 1.6rem; }
+.offers .note { margin: 2rem 0 0; color: var(--muted); font-size: 1.1rem; font-style: italic; }
+.offers h2, .promise h2 { margin-bottom: 1.2em; }
+@media (max-width: 1100px) { .pillars.four { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 900px) { .pillars.two, .pillars.four { grid-template-columns: 1fr; } }
+
 .footer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; padding: 28px max(16px, calc((100vw - var(--max)) / 2)); font-size: 0.8rem; color: var(--muted-on-dark); letter-spacing: 0.04em; }
 
 @media (max-width: 900px) {

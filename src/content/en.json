@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Hugo Fugeard · Private chef in France and Europe",
-    "description": "Private chef based in Annecy. I cook for families and groups in chalets, villas and manor houses: Courchevel, Megève, Val d'Isère, Verbier, Saint-Tropez, Normandy… anywhere in France and Europe."
+    "title": "Hugo Fugeard · Private chef in the Alps and Annecy",
+    "description": "Private chef in ski chalets in winter: Courchevel, Méribel, Megève, Val d'Isère, Verbier and Gstaad. All year round, private chef in and around Annecy for dinners and events. French and Italian cooking."
   },
   "nav": {
     "about": "About",
-    "destinations": "Where I cook",
+    "offers": "Services",
     "approach": "My cooking",
     "process": "How it works",
     "faq": "Questions",
@@ -14,13 +14,54 @@
     "skip": "Skip to content"
   },
   "hero": {
-    "eyebrow": "Private chef · Anywhere in France and Europe",
+    "eyebrow": "Private chef · French and Swiss Alps · Annecy",
     "title": "Your private chef, wherever you stay.",
-    "text": "I'm Hugo. I come and cook in your chalet, villa or manor house, for one dinner or your whole stay. French and Italian cooking, made with care and served at your table, so you can enjoy your people.",
+    "text": "I'm Hugo. In winter, I cook in chalets in Courchevel, Méribel, Megève, Val d'Isère, Verbier and Gstaad. All year round, I also cook in your home, in and around Annecy. French and Italian cooking, made with care and served at your table.",
     "primaryButton": "Message me on WhatsApp",
     "secondaryButton": "Send an email",
     "image": "hero.jpg",
     "imageAlt": "A long table set under the trees, ready for a shared meal"
+  },
+  "offers": {
+    "title": "Two ways to work with me",
+    "items": [
+      {
+        "title": "In winter, in your chalet",
+        "places": "Courchevel · Méribel · Megève · Val d'Isère · Verbier · Gstaad",
+        "text": "A private chef for your ski holiday. Every meal or just the dinners, for a few days or the whole week.",
+        "button": "Book my stay",
+        "message": "Hello Hugo! We'd like a private chef for our chalet stay. Resort: ... Dates: ... Number of guests: ..."
+      },
+      {
+        "title": "All year, in and around Annecy",
+        "places": "Annecy · Lake Annecy · Haute-Savoie",
+        "text": "A private chef for a dinner, a birthday or an event at your home.",
+        "button": "Plan a dinner",
+        "message": "Hello Hugo! I'd like to organise a meal at home. Place: ... Date: ... Number of guests: ... Occasion: ..."
+      }
+    ],
+    "note": "And anywhere else in France, on request."
+  },
+  "promise": {
+    "title": "My promise",
+    "items": [
+      {
+        "title": "Discretion",
+        "text": "What happens at your table stays at your table. I never photograph my clients or mention their names."
+      },
+      {
+        "title": "Made to measure",
+        "text": "No set menu. Every menu is built with you, around your tastes and cravings, and the children's too."
+      },
+      {
+        "title": "I do the cooking",
+        "text": "No stand-ins: I'm the one at the stove, from the first meal to the last."
+      },
+      {
+        "title": "Everyone eats well",
+        "text": "Allergies, intolerances, vegetarian, gluten-free: every guest gets a plate designed for them."
+      }
+    ]
   },
   "about": {
     "title": "Hello, I'm Hugo",
@@ -31,24 +72,6 @@
     ],
     "image": "hugo.jpg",
     "imageAlt": "Hugo in the kitchen, smiling"
-  },
-  "destinations": {
-    "title": "Where I cook",
-    "intro": "Based in Annecy, I travel anywhere in France and Europe.",
-    "items": [
-      {
-        "title": "In the mountains",
-        "text": "Chalets in Courchevel, Megève, Val d'Isère and Méribel, and in Switzerland in Verbier and Gstaad."
-      },
-      {
-        "title": "By the sea",
-        "text": "Villas in Saint-Tropez, Saint-Jean-Cap-Ferrat and all along the Riviera."
-      },
-      {
-        "title": "In the countryside",
-        "text": "Manor houses and grand homes, in Normandy and beyond."
-      }
-    ]
   },
   "approach": {
     "title": "How I cook",
@@ -150,7 +173,7 @@
       },
       {
         "question": "Do you travel outside France?",
-        "answer": "Yes. I'm based in Annecy and travel anywhere in France and Europe. Travel is included in your proposal."
+        "answer": "Yes. In winter I mostly work in resorts in the French and Swiss Alps. The rest of the year I cook in and around Annecy, and travel anywhere in France on request. Travel is included in your proposal."
       },
       {
         "question": "The house is hard to reach. Is that a problem?",
@@ -175,8 +198,8 @@
     ]
   },
   "partners": {
-    "title": "Do you manage a chalet, villa or manor house?",
-    "text": "Owners, concierge services, rental agencies: offer your guests a private chef. I plan the menus with them and cook on site during their stay.",
+    "title": "Do you manage chalets?",
+    "text": "Concierge services, rental agencies and owners in Courchevel, Méribel, Megève, Val d'Isère, Verbier or Gstaad: offer your guests a private chef. I plan the menus with them and cook on site during their stay.",
     "button": "Get in touch",
     "emailSubject": "Private chef option for my guests"
   },
@@ -189,7 +212,7 @@
     "emailSubject": "Private chef enquiry"
   },
   "footer": {
-    "tagline": "Private chef · Based in Annecy · France and Europe",
+    "tagline": "Private chef · French and Swiss Alps · Annecy",
     "rights": "All rights reserved."
   }
 }

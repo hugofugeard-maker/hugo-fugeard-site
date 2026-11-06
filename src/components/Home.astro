@@ -19,7 +19,7 @@ const year = new Date().getFullYear();
   <a class="brand" href={homePath(locale)}>{site.name}</a>
   <nav aria-label="Menu">
     <a href="#about">{t.nav.about}</a>
-    <a href="#destinations">{t.nav.destinations}</a>
+    <a href="#offers">{t.nav.offers}</a>
     <a href="#approach">{t.nav.approach}</a>
     <a href="#process">{t.nav.process}</a>
     <a href="#faq">{t.nav.faq}</a>
@@ -56,13 +56,34 @@ const year = new Date().getFullYear();
     </div>
   </section>
 
-  <section id="destinations" class="destinations">
+  <section id="offers" class="offers light">
     <div class="wrap">
-      <h2>{t.destinations.title}</h2>
-      <p class="intro">{t.destinations.intro}</p>
-      <div class="pillars">
+      <h2>{t.offers.title}</h2>
+      <div class="pillars two">
         {
-          t.destinations.items.map((item) => (
+          t.offers.items.map((item) => (
+            <article>
+              <span class="ornament" aria-hidden="true">✦</span>
+              <h3>{item.title}</h3>
+              <p class="places">{item.places}</p>
+              <p>{item.text}</p>
+              <div class="buttons">
+                <a class="button dark" href={whatsappUrl(item.message)} target="_blank" rel="noopener">{item.button}</a>
+              </div>
+            </article>
+          ))
+        }
+      </div>
+      <p class="note">{t.offers.note}</p>
+    </div>
+  </section>
+
+  <section id="promise" class="promise">
+    <div class="wrap">
+      <h2>{t.promise.title}</h2>
+      <div class="pillars four">
+        {
+          t.promise.items.map((item) => (
             <article>
               <span class="ornament" aria-hidden="true">✦</span>
               <h3>{item.title}</h3>
@@ -74,7 +95,7 @@ const year = new Date().getFullYear();
     </div>
   </section>
 
-  <section id="approach" class="approach light">
+  <section id="approach" class="approach">
     <div class="wrap">
       <h2>{t.approach.title}</h2>
       <p class="intro">{t.approach.intro}</p>
