@@ -109,6 +109,17 @@ details p { color: var(--muted-on-dark); padding-right: 40px; }
 .contact .buttons { justify-content: center; }
 .contact-email { margin-top: 1.6rem; font-size: 0.95rem !important; }
 
+/* Light sections that reuse the pillars and buttons */
+.light .pillars { background: rgb(185 132 62 / 0.3); border-color: rgb(185 132 62 / 0.3); }
+.light .pillars article { background: var(--linen); }
+.light .pillars p { color: var(--muted); }
+.light .ornament, .light .cuisines h3 { color: var(--gold-dark); }
+.button.dark { background: var(--night); color: var(--linen); }
+.button.dark:hover { background: var(--gold-dark); color: var(--night); }
+.partners { text-align: center; }
+.partners p { color: var(--muted); font-size: 1.15rem; }
+.partners .buttons { justify-content: center; }
+
 .footer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; padding: 28px max(16px, calc((100vw - var(--max)) / 2)); font-size: 0.8rem; color: var(--muted-on-dark); letter-spacing: 0.04em; }
 
 @media (max-width: 900px) {

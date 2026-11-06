@@ -1,10 +1,11 @@
 {
   "meta": {
-    "title": "Hugo Fugeard · Chef à domicile à Annecy",
-    "description": "Chef à domicile basé à Annecy. Une cuisine généreuse, à partager, pour les amis et les familles en chalet, en villa ou en maison de vacances, en France et à l'étranger."
+    "title": "Hugo Fugeard · Chef privé en France et en Europe",
+    "description": "Chef privé basé à Annecy. Je cuisine pour les familles et les groupes en chalet, en villa ou en manoir : Courchevel, Megève, Val d'Isère, Verbier, Saint-Tropez, Normandie… partout en France et en Europe."
   },
   "nav": {
     "about": "Qui suis-je",
+    "destinations": "Où je cuisine",
     "approach": "Ma cuisine",
     "process": "Comment ça marche",
     "faq": "Questions",
@@ -13,9 +14,9 @@
     "skip": "Aller au contenu"
   },
   "hero": {
-    "eyebrow": "Chef à domicile · Annecy, en France et ailleurs",
-    "title": "Une table qui a le goût de la maison, où que vous soyez.",
-    "text": "Je m'appelle Hugo. Je cuisine des repas généreux, à partager, pour les amis et les familles en chalet, en villa ou en maison de vacances. Vous, vous profitez de vos proches.",
+    "eyebrow": "Chef privé · Partout en France et en Europe",
+    "title": "Votre chef privé, là où vous séjournez.",
+    "text": "Je m'appelle Hugo. Je viens cuisiner dans votre chalet, votre villa ou votre manoir, pour un dîner ou pour tout votre séjour. Une cuisine française et italienne, travaillée avec soin et servie à votre table. Vous, vous profitez de vos proches.",
     "primaryButton": "M'écrire sur WhatsApp",
     "secondaryButton": "Envoyer un e-mail",
     "image": "hero.jpg",
@@ -24,12 +25,30 @@
   "about": {
     "title": "Bonjour, moi c'est Hugo",
     "paragraphs": [
-      "Je suis chef à domicile, basé à Annecy. Je cuisine comme j'aime manger : de grands plats au milieu de la table, tout le monde se sert, personne n'est pressé.",
-      "Ma cuisine est simple, généreuse, faite avec de bons produits. Avec une grande cuisine, je la rends un peu plus raffinée. Avec une petite, je vous prépare un beau repas de famille.",
-      "Dans les deux cas, le but est le même : que vous vous sentiez chez vous, où que vous soyez."
+      "Je suis chef privé. Mon métier, c'est de venir là où vous êtes, pour que vous n'ayez à penser à rien d'autre qu'à vos proches.",
+      "Mes cuisines de prédilection sont la française et l'italienne : de beaux produits, des saveurs franches, des plats travaillés avec soin, des grands classiques aux assiettes plus raffinées. Et si vous avez d'autres envies, je m'adapte.",
+      "Un dîner d'exception ou tous les repas d'une semaine : je m'adapte à votre séjour, à vos goûts et à la cuisine de la maison."
     ],
     "image": "hugo.jpg",
     "imageAlt": "Hugo en cuisine, souriant"
+  },
+  "destinations": {
+    "title": "Où je cuisine",
+    "intro": "Basé à Annecy, je me déplace partout en France et en Europe.",
+    "items": [
+      {
+        "title": "À la montagne",
+        "text": "Chalets à Courchevel, Megève, Val d'Isère et Méribel, et en Suisse à Verbier et Gstaad."
+      },
+      {
+        "title": "En bord de mer",
+        "text": "Villas à Saint-Tropez, Saint-Jean-Cap-Ferrat et sur toute la Côte d'Azur."
+      },
+      {
+        "title": "À la campagne",
+        "text": "Manoirs et grandes demeures, en Normandie et ailleurs."
+      }
+    ]
   },
   "approach": {
     "title": "Ma façon de cuisiner",
@@ -52,8 +71,6 @@
     "cuisines": [
       "Française",
       "Italienne",
-      "Portugaise",
-      "Indienne",
       "Vos envies"
     ]
   },
@@ -124,7 +141,7 @@
     "title": "Questions",
     "items": [
       {
-        "question": "Que fait un chef à domicile, concrètement ?",
+        "question": "Que fait un chef privé, concrètement ?",
         "answer": "Je viens dans votre maison ou votre location de vacances et je cuisine pour vous pendant votre séjour : tous les repas, ou seulement les grandes soirées. On prépare les menus ensemble, je cuisine sur place et je sers à table."
       },
       {
@@ -133,7 +150,7 @@
       },
       {
         "question": "Vous vous déplacez hors de France ?",
-        "answer": "Oui. Je suis basé à Annecy et je me déplace en France et à l'étranger. Le déplacement est inclus dans votre proposition."
+        "answer": "Oui. Je suis basé à Annecy et je me déplace partout en France et en Europe. Le déplacement est inclus dans votre proposition."
       },
       {
         "question": "La maison est difficile d'accès. C'est un problème ?",
@@ -157,16 +174,22 @@
       }
     ]
   },
+  "partners": {
+    "title": "Vous gérez un chalet, une villa ou un manoir ?",
+    "text": "Propriétaires, conciergeries, agences de location : proposez l'option chef privé à vos clients. Je prépare les menus avec eux et je cuisine sur place pendant leur séjour.",
+    "button": "Me contacter",
+    "emailSubject": "Option chef privé pour mes clients"
+  },
   "contact": {
     "title": "Préparons votre table",
     "text": "Envoyez-moi vos dates, le lieu et le nombre de personnes. Je m'occupe du reste.",
     "whatsappButton": "WhatsApp",
     "emailButton": "E-mail",
     "whatsappMessage": "Bonjour Hugo ! J'aimerais organiser un séjour avec vous. Dates : ... Lieu : ... Nombre de personnes : ...",
-    "emailSubject": "Demande de chef à domicile"
+    "emailSubject": "Demande de chef privé"
   },
   "footer": {
-    "tagline": "Chef à domicile · Annecy, France",
+    "tagline": "Chef privé · Basé à Annecy · France et Europe",
     "rights": "Tous droits réservés."
   }
 }

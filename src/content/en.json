@@ -1,10 +1,11 @@
 {
   "meta": {
-    "title": "Hugo Fugeard · Private chef in Annecy, France",
-    "description": "Private chef based in Annecy. Generous, family-style meals for friends and families in chalets, villas and holiday homes, in France and abroad."
+    "title": "Hugo Fugeard · Private chef in France and Europe",
+    "description": "Private chef based in Annecy. I cook for families and groups in chalets, villas and manor houses: Courchevel, Megève, Val d'Isère, Verbier, Saint-Tropez, Normandy… anywhere in France and Europe."
   },
   "nav": {
     "about": "About",
+    "destinations": "Where I cook",
     "approach": "My cooking",
     "process": "How it works",
     "faq": "Questions",
@@ -13,9 +14,9 @@
     "skip": "Skip to content"
   },
   "hero": {
-    "eyebrow": "Private chef · Annecy, France and beyond",
-    "title": "A feast that feels like home, wherever you gather.",
-    "text": "I'm Hugo. I cook generous, family-style meals for friends and families in chalets, villas and holiday homes, so you can sit back and enjoy your people.",
+    "eyebrow": "Private chef · Anywhere in France and Europe",
+    "title": "Your private chef, wherever you stay.",
+    "text": "I'm Hugo. I come and cook in your chalet, villa or manor house, for one dinner or your whole stay. French and Italian cooking, made with care and served at your table, so you can enjoy your people.",
     "primaryButton": "Message me on WhatsApp",
     "secondaryButton": "Send an email",
     "image": "hero.jpg",
@@ -24,12 +25,30 @@
   "about": {
     "title": "Hello, I'm Hugo",
     "paragraphs": [
-      "I'm a private chef based in Annecy. I cook the way I like to eat: big dishes in the middle of the table, everyone sharing, nobody in a hurry.",
-      "My food is simple, generous and made with good products. Give me a big kitchen and I'll make it a little fancy. Give me a small one and I'll make you a beautiful family meal.",
-      "Either way, the goal is the same. You feel at home, wherever you are."
+      "I'm a private chef. My job is to come to wherever you are, so the only thing you need to think about is the people around you.",
+      "French and Italian are the cuisines I love most: beautiful produce, honest flavours and carefully made dishes, from the great classics to more refined plates. If you have other cravings, I'll adapt.",
+      "One exceptional dinner or every meal of the week: I adapt to your stay, your tastes and the kitchen in the house."
     ],
     "image": "hugo.jpg",
     "imageAlt": "Hugo in the kitchen, smiling"
+  },
+  "destinations": {
+    "title": "Where I cook",
+    "intro": "Based in Annecy, I travel anywhere in France and Europe.",
+    "items": [
+      {
+        "title": "In the mountains",
+        "text": "Chalets in Courchevel, Megève, Val d'Isère and Méribel, and in Switzerland in Verbier and Gstaad."
+      },
+      {
+        "title": "By the sea",
+        "text": "Villas in Saint-Tropez, Saint-Jean-Cap-Ferrat and all along the Riviera."
+      },
+      {
+        "title": "In the countryside",
+        "text": "Manor houses and grand homes, in Normandy and beyond."
+      }
+    ]
   },
   "approach": {
     "title": "How I cook",
@@ -52,9 +71,7 @@
     "cuisines": [
       "French",
       "Italian",
-      "Portuguese",
-      "Indian",
-      "Your favourites"
+      "Your cravings"
     ]
   },
   "gallery": {
@@ -133,7 +150,7 @@
       },
       {
         "question": "Do you travel outside France?",
-        "answer": "Yes. I'm based in Annecy and I travel in France and abroad. Travel is included in your proposal."
+        "answer": "Yes. I'm based in Annecy and travel anywhere in France and Europe. Travel is included in your proposal."
       },
       {
         "question": "The house is hard to reach. Is that a problem?",
@@ -157,16 +174,22 @@
       }
     ]
   },
+  "partners": {
+    "title": "Do you manage a chalet, villa or manor house?",
+    "text": "Owners, concierge services, rental agencies: offer your guests a private chef. I plan the menus with them and cook on site during their stay.",
+    "button": "Get in touch",
+    "emailSubject": "Private chef option for my guests"
+  },
   "contact": {
     "title": "Let's plan your table",
     "text": "Send me your dates, the place and how many people. I'll take it from there.",
     "whatsappButton": "WhatsApp",
     "emailButton": "Email",
     "whatsappMessage": "Hi Hugo! I'd like to plan a stay with you. Dates: ... Place: ... Number of people: ...",
-    "emailSubject": "Private chef request"
+    "emailSubject": "Private chef enquiry"
   },
   "footer": {
-    "tagline": "Private chef · Annecy, France",
+    "tagline": "Private chef · Based in Annecy · France and Europe",
     "rights": "All rights reserved."
   }
 }
