@@ -79,15 +79,15 @@
     "items": [
       {
         "title": "Family style",
-        "text": "Dishes to share, served at the table. It's how I cook almost everywhere, because it's how people relax."
+        "text": "Starters and mains in the middle of the table: everyone helps themselves as they like, in a warm, family spirit."
+      },
+      {
+        "title": "Plated",
+        "text": "French-style service and precise plating: colour, texture, perfect cooking, sauces, seasonality."
       },
       {
         "title": "Made for you",
-        "text": "Your tastes, your allergies, your kids' favourites. We build the menu together, and I cook for each person, not just the group."
-      },
-      {
-        "title": "Fancy or cozy",
-        "text": "A full kitchen means more ambitious dishes. A simple kitchen means a warm, generous meal. Both are good."
+        "text": "Your tastes, allergies, dietary needs, the children's favourite dishes. We design the menu together, so every guest feels fully taken care of."
       }
     ],
     "cuisinesTitle": "On the menu",

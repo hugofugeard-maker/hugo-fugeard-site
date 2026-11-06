@@ -79,15 +79,15 @@
     "items": [
       {
         "title": "À partager",
-        "text": "Des plats servis à table, au milieu de tous. C'est comme ça que je cuisine presque partout, parce que c'est comme ça qu'on se détend."
+        "text": "Les entrées et les plats au milieu de la table : chacun se sert comme bon lui semble, dans un esprit familial et réconfortant."
+      },
+      {
+        "title": "À l'assiette",
+        "text": "Le service à la française et un dressage maîtrisé : couleur, texture, cuisson juste, sauce, saisonnalité."
       },
       {
         "title": "Fait pour vous",
-        "text": "Vos goûts, vos allergies, les plats préférés des enfants. On construit le menu ensemble, et je cuisine pour chacun, pas seulement pour le groupe."
-      },
-      {
-        "title": "Raffiné ou réconfortant",
-        "text": "Une cuisine bien équipée permet des plats plus ambitieux. Une cuisine simple, un repas chaleureux et généreux. Les deux sont bons."
+        "text": "Vos goûts, les allergies, les régimes alimentaires, les plats préférés des enfants. On élabore le menu ensemble, afin que chaque convive se sente pleinement pris en compte."
       }
     ],
     "cuisinesTitle": "Au menu",
