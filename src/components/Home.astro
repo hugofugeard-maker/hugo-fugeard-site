@@ -18,9 +18,9 @@ const year = new Date().getFullYear();
 <header class="header">
   <a class="brand" href={homePath(locale)}>{site.name}</a>
   <nav aria-label="Menu">
-    <a href="#about">{t.nav.about}</a>
-    <a href="#offers">{t.nav.offers}</a>
     <a href="#approach">{t.nav.approach}</a>
+    <a href="#offers">{t.nav.offers}</a>
+    <a href="#about">{t.nav.about}</a>
     <a href="#process">{t.nav.process}</a>
     <a href="#faq">{t.nav.faq}</a>
     <a href="#contact">{t.nav.contact}</a>
@@ -44,58 +44,7 @@ const year = new Date().getFullYear();
     </div>
   </section>
 
-  <section id="about" class="about light">
-    <div class="wrap about-grid">
-      <div class="about-photo">
-        <Photo file={t.about.image} alt={t.about.imageAlt} sizes="(min-width: 900px) 40vw, 100vw" />
-      </div>
-      <div>
-        <h2>{t.about.title}</h2>
-        {t.about.paragraphs.map((p, i) => <p class={i === t.about.paragraphs.length - 1 ? 'pull' : ''}>{p}</p>)}
-      </div>
-    </div>
-  </section>
-
-  <section id="offers" class="offers light">
-    <div class="wrap">
-      <h2>{t.offers.title}</h2>
-      <div class="pillars two">
-        {
-          t.offers.items.map((item) => (
-            <article>
-              <span class="ornament" aria-hidden="true">✦</span>
-              <h3>{item.title}</h3>
-              <p class="places">{item.places}</p>
-              <p>{item.text}</p>
-              <div class="buttons">
-                <a class="button dark" href={whatsappUrl(item.message)} target="_blank" rel="noopener">{item.button}</a>
-              </div>
-            </article>
-          ))
-        }
-      </div>
-      <p class="note">{t.offers.note}</p>
-    </div>
-  </section>
-
-  <section id="promise" class="promise">
-    <div class="wrap">
-      <h2>{t.promise.title}</h2>
-      <div class="pillars four">
-        {
-          t.promise.items.map((item) => (
-            <article>
-              <span class="ornament" aria-hidden="true">✦</span>
-              <h3>{item.title}</h3>
-              <p>{item.text}</p>
-            </article>
-          ))
-        }
-      </div>
-    </div>
-  </section>
-
-  <section id="approach" class="approach">
+  <section id="approach" class="approach light">
     <div class="wrap">
       <h2>{t.approach.title}</h2>
       <p class="intro">{t.approach.intro}</p>
@@ -113,6 +62,57 @@ const year = new Date().getFullYear();
       <div class="cuisines">
         <h3>{t.approach.cuisinesTitle}</h3>
         <ul>{t.approach.cuisines.map((c) => <li>{c}</li>)}</ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="offers" class="offers">
+    <div class="wrap">
+      <h2>{t.offers.title}</h2>
+      <div class="pillars two">
+        {
+          t.offers.items.map((item) => (
+            <article>
+              <span class="ornament" aria-hidden="true">✦</span>
+              <h3>{item.title}</h3>
+              <p class="places">{item.places}</p>
+              <p>{item.text}</p>
+              <div class="buttons">
+                <a class="button gold" href={whatsappUrl(item.message)} target="_blank" rel="noopener">{item.button}</a>
+              </div>
+            </article>
+          ))
+        }
+      </div>
+      <p class="note">{t.offers.note}</p>
+    </div>
+  </section>
+
+  <section id="promise" class="promise light">
+    <div class="wrap">
+      <h2>{t.promise.title}</h2>
+      <div class="pillars four">
+        {
+          t.promise.items.map((item) => (
+            <article>
+              <span class="ornament" aria-hidden="true">✦</span>
+              <h3>{item.title}</h3>
+              <p>{item.text}</p>
+            </article>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section id="about" class="about">
+    <div class="wrap about-grid">
+      <div class="about-photo">
+        <Photo file={t.about.image} alt={t.about.imageAlt} sizes="(min-width: 900px) 40vw, 100vw" />
+      </div>
+      <div>
+        <h2>{t.about.title}</h2>
+        {t.about.paragraphs.map((p, i) => <p class={i === t.about.paragraphs.length - 1 ? 'pull' : ''}>{p}</p>)}
       </div>
     </div>
   </section>

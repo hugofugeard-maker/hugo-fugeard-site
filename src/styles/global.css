@@ -129,6 +129,12 @@ details p { color: var(--muted-on-dark); padding-right: 40px; }
 @media (max-width: 1100px) { .pillars.four { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 900px) { .pillars.two, .pillars.four { grid-template-columns: 1fr; } }
 
+/* Dark versions of sections that were light before */
+.about:not(.light) p { color: var(--muted-on-dark); }
+.about:not(.light) p.pull { color: var(--text-on-dark); }
+.offers:not(.light) .places { color: var(--gold); }
+.offers:not(.light) .note { color: var(--muted-on-dark); }
+
 .footer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; padding: 28px max(16px, calc((100vw - var(--max)) / 2)); font-size: 0.8rem; color: var(--muted-on-dark); letter-spacing: 0.04em; }
 
 @media (max-width: 900px) {
