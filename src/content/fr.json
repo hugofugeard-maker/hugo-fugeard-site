@@ -29,14 +29,14 @@
         "title": "L'hiver, en chalet",
         "places": "Courchevel · Méribel · Megève · Val d'Isère · Verbier · Gstaad",
         "text": "Chef privé pour votre séjour au ski. Les dîners, pour quelques jours ou tout votre séjour.",
-        "button": "Réserver mon séjour",
+        "button": "Réserver",
         "message": "Bonjour Hugo ! J'aimerais un chef privé pour notre séjour en chalet. Station : ... Dates : ... Nombre de personnes : ..."
       },
       {
         "title": "Toute l'année, à Annecy et autour",
         "places": "Lac d'Annecy · Les deux Savoies",
         "text": "Chef privé pour un déjeuner, un dîner, un anniversaire chez vous.",
-        "button": "Organiser un dîner",
+        "button": "Réserver",
         "message": "Bonjour Hugo ! J'aimerais organiser un repas chez moi. Lieu : ... Date : ... Nombre de personnes : ... Occasion : ..."
       }
     ],

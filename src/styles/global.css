@@ -135,6 +135,10 @@ details p { color: var(--muted-on-dark); padding-right: 40px; }
 .offers:not(.light) .places { color: var(--gold); }
 .offers:not(.light) .note { color: var(--muted-on-dark); }
 
+/* Offer cards: buttons always aligned at the bottom */
+.pillars.two article { display: flex; flex-direction: column; }
+.pillars.two article .buttons { margin-top: auto; padding-top: 1.6rem; }
+
 .footer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; padding: 28px max(16px, calc((100vw - var(--max)) / 2)); font-size: 0.8rem; color: var(--muted-on-dark); letter-spacing: 0.04em; }
 
 @media (max-width: 900px) {
