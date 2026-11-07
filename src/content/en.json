@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Hugo Fugeard · Private chef in the Alps and Annecy",
-    "description": "Private chef in ski chalets in winter: Courchevel, Méribel, Megève, Val d'Isère, Verbier and Gstaad. All year round, private chef in and around Annecy for dinners and events. French and Italian cooking."
+    "description": "Private chef in ski chalets in winter: Courchevel, Méribel, Megève, Val d'Isère, Verbier and Gstaad. All year round, private chef in and around Annecy for dinners and events. Mediterranean cooking."
   },
   "nav": {
     "about": "Being a private chef",
@@ -16,7 +16,7 @@
   "hero": {
     "eyebrow": "Private chef · French and Swiss Alps · Annecy",
     "title": "Your private chef, wherever you are.",
-    "text": "In winter, find me in private chalets: Courchevel, Méribel, Megève, Val d'Isère, Verbier, Gstaad. The rest of the year, in your holiday rentals and in your own home: Annecy and the surrounding area. French and Italian cooking from the heart, served at your table.",
+    "text": "In winter, find me in private chalets: Courchevel, Méribel, Megève, Val d'Isère, Verbier, Gstaad. The rest of the year, in your holiday rentals and in your own home: Annecy and the surrounding area. Mediterranean cooking from the heart, served at your table.",
     "primaryButton": "Message me on WhatsApp",
     "secondaryButton": "Send an email",
     "image": "hero.jpg",
@@ -66,8 +66,7 @@
     ],
     "cuisinesTitle": "On the menu",
     "cuisines": [
-      "French",
-      "Italian",
+      "Mediterranean",
       "Your cravings"
     ]
   },
