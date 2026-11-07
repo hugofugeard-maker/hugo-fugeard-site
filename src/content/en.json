@@ -4,7 +4,7 @@
     "description": "Private chef in ski chalets in winter: Courchevel, Méribel, Megève, Val d'Isère, Verbier and Gstaad. All year round, private chef in and around Annecy for dinners and events. French and Italian cooking."
   },
   "nav": {
-    "about": "About",
+    "about": "Being a private chef",
     "offers": "Services",
     "approach": "My work",
     "process": "How it works",
@@ -22,54 +22,28 @@
     "image": "hero.jpg",
     "imageAlt": "A long table set under the trees, ready for a shared meal"
   },
-  "offers": {
-    "title": "Two ways to work with me",
-    "items": [
-      {
-        "title": "In winter, in your chalet",
-        "places": "Courchevel · Méribel · Megève · Val d'Isère · Verbier · Gstaad",
-        "text": "A private chef for your ski holiday. Dinners, for a few days or your whole stay.",
-        "button": "Book",
-        "message": "Hello Hugo! We'd like a private chef for our chalet stay. Resort: ... Dates: ... Number of guests: ..."
-      },
-      {
-        "title": "All year, in and around Annecy",
-        "places": "Lake Annecy · Savoie and Haute-Savoie",
-        "text": "A private chef for a lunch, a dinner or a birthday at your home.",
-        "button": "Book",
-        "message": "Hello Hugo! I'd like to organise a meal at home. Place: ... Date: ... Number of guests: ... Occasion: ..."
-      }
+  "about": {
+    "title": "Being a private chef means…",
+    "slogan": "Discretion, rigour, generosity.",
+    "paragraphs": [
+      "Coming to wherever you are, from a chalet in Courchevel to a house on Lake Annecy, so the only thing you need to think about is the people around you.",
+      "French and Italian are the cuisines I love most: beautiful produce, honest flavours, from the great classics to more refined plates. If you have other cravings, I'll adapt."
     ],
-    "note": "And anywhere else in France, on request."
-  },
-  "promise": {
-    "title": "My promise",
-    "items": [
+    "values": [
       {
         "title": "Discretion",
         "text": "What happens at your table stays at your table. I never photograph my clients or mention their names."
       },
       {
-        "title": "Made to measure",
-        "text": "No set menu. Every menu is built with you, around your tastes and cravings, and the children's too."
+        "title": "Rigour",
+        "text": "I do the cooking, no stand-ins: I'm at the stove from the first dinner to the last."
       },
       {
-        "title": "I do the cooking",
-        "text": "No stand-ins: I'm the one at the stove, from the first meal to the last."
-      },
-      {
-        "title": "Everyone eats well",
-        "text": "Allergies, intolerances, vegetarian, gluten-free: every guest gets a plate designed for them."
+        "title": "Generosity",
+        "text": "Comforting, sincere cooking from the heart."
       }
-    ]
-  },
-  "about": {
-    "title": "About me",
-    "paragraphs": [
-      "I'm a private chef. My job is to come to wherever you are, so the only thing you need to think about is the people around you.",
-      "French and Italian are the cuisines I love most: beautiful produce, honest flavours and carefully made dishes, from the great classics to more refined plates. If you have other cravings, I'll adapt.",
-      "One exceptional dinner or every meal of the week: I adapt to your stay, your tastes and the kitchen in the house."
     ],
+    "quote": "One exceptional dinner or every dinner of your stay: I adapt to your tastes and the kitchen in the house.",
     "image": "hugo.jpg",
     "imageAlt": "Hugo in the kitchen, smiling"
   },
@@ -96,6 +70,26 @@
       "Italian",
       "Your cravings"
     ]
+  },
+  "offers": {
+    "title": "Two ways to work with me",
+    "items": [
+      {
+        "title": "In winter, in your chalet",
+        "places": "Courchevel · Méribel · Megève · Val d'Isère · Verbier · Gstaad",
+        "text": "A private chef for your ski holiday. Dinners, for a few days or your whole stay.",
+        "button": "Book",
+        "message": "Hello Hugo! We'd like a private chef for our chalet stay. Resort: ... Dates: ... Number of guests: ..."
+      },
+      {
+        "title": "All year, in and around Annecy",
+        "places": "Lake Annecy · Savoie and Haute-Savoie",
+        "text": "A private chef for a lunch, a dinner or a birthday at your home.",
+        "button": "Book",
+        "message": "Hello Hugo! I'd like to organise a meal at home. Place: ... Date: ... Number of guests: ... Occasion: ..."
+      }
+    ],
+    "note": "And anywhere else in France, on request."
   },
   "gallery": {
     "title": "At the table",

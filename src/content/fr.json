@@ -4,7 +4,7 @@
     "description": "Chef privé en chalet l'hiver à Courchevel, Méribel, Megève, Val d'Isère, Verbier et Gstaad. Toute l'année, chef privé à Annecy et autour pour vos dîners et vos événements. Cuisine française et italienne."
   },
   "nav": {
-    "about": "Qui suis-je",
+    "about": "Être un chef privé",
     "offers": "Mes services",
     "approach": "Mon travail",
     "process": "Comment ça marche",
@@ -22,54 +22,28 @@
     "image": "hero.jpg",
     "imageAlt": "Une longue table dressée sous les arbres, prête pour un repas à partager"
   },
-  "offers": {
-    "title": "Deux façons de faire appel à moi",
-    "items": [
-      {
-        "title": "L'hiver, en chalet",
-        "places": "Courchevel · Méribel · Megève · Val d'Isère · Verbier · Gstaad",
-        "text": "Chef privé pour votre séjour au ski. Les dîners, pour quelques jours ou tout votre séjour.",
-        "button": "Réserver",
-        "message": "Bonjour Hugo ! J'aimerais un chef privé pour notre séjour en chalet. Station : ... Dates : ... Nombre de personnes : ..."
-      },
-      {
-        "title": "Toute l'année, à Annecy et autour",
-        "places": "Lac d'Annecy · Les deux Savoies",
-        "text": "Chef privé pour un déjeuner, un dîner, un anniversaire chez vous.",
-        "button": "Réserver",
-        "message": "Bonjour Hugo ! J'aimerais organiser un repas chez moi. Lieu : ... Date : ... Nombre de personnes : ... Occasion : ..."
-      }
+  "about": {
+    "title": "Être un chef privé, c'est…",
+    "slogan": "Discrétion, rigueur, générosité.",
+    "paragraphs": [
+      "Venir là où vous êtes, d'un chalet à Courchevel à une maison au bord du lac d'Annecy, pour que vous n'ayez à penser à rien d'autre qu'à vos proches.",
+      "Mes cuisines de prédilection sont la française et l'italienne : de beaux produits, des saveurs franches, des grands classiques aux assiettes plus raffinées. Et si vous avez d'autres envies, je m'adapte."
     ],
-    "note": "Et partout ailleurs en France, sur demande."
-  },
-  "promise": {
-    "title": "Ma promesse",
-    "items": [
+    "values": [
       {
         "title": "Discrétion",
         "text": "Ce qui se passe à votre table reste à votre table. Je ne photographie pas mes clients et je ne cite jamais de noms."
       },
       {
-        "title": "Sur mesure",
-        "text": "Pas de menu imposé. Chaque menu est construit avec vous, selon vos goûts et vos envies, et celles des enfants."
+        "title": "Rigueur",
+        "text": "C'est moi qui cuisine, pas de remplaçant : je suis aux fourneaux du premier au dernier dîner."
       },
       {
-        "title": "C'est moi qui cuisine",
-        "text": "Pas de remplaçant : c'est moi qui suis aux fourneaux, du premier au dernier repas."
-      },
-      {
-        "title": "Chacun mange bien",
-        "text": "Allergies, intolérances, végétarien, sans gluten : chaque convive a une assiette pensée pour lui."
+        "title": "Générosité",
+        "text": "Une cuisine réconfortante, sincère et du cœur."
       }
-    ]
-  },
-  "about": {
-    "title": "Qui suis-je",
-    "paragraphs": [
-      "Je suis chef privé. Mon métier, c'est de venir là où vous êtes, pour que vous n'ayez à penser à rien d'autre qu'à vos proches.",
-      "Mes cuisines de prédilection sont la française et l'italienne : de beaux produits, des saveurs franches, des plats travaillés avec soin, des grands classiques aux assiettes plus raffinées. Et si vous avez d'autres envies, je m'adapte.",
-      "Un dîner d'exception ou tous les repas d'une semaine : je m'adapte à votre séjour, à vos goûts et à la cuisine de la maison."
     ],
+    "quote": "Un dîner d'exception ou tous les dîners de votre séjour : je m'adapte à vos goûts et à la cuisine de la maison.",
     "image": "hugo.jpg",
     "imageAlt": "Hugo en cuisine, souriant"
   },
@@ -96,6 +70,26 @@
       "Italienne",
       "Vos envies"
     ]
+  },
+  "offers": {
+    "title": "Deux façons de faire appel à moi",
+    "items": [
+      {
+        "title": "L'hiver, en chalet",
+        "places": "Courchevel · Méribel · Megève · Val d'Isère · Verbier · Gstaad",
+        "text": "Chef privé pour votre séjour au ski. Les dîners, pour quelques jours ou tout votre séjour.",
+        "button": "Réserver",
+        "message": "Bonjour Hugo ! J'aimerais un chef privé pour notre séjour en chalet. Station : ... Dates : ... Nombre de personnes : ..."
+      },
+      {
+        "title": "Toute l'année, à Annecy et autour",
+        "places": "Lac d'Annecy · Les deux Savoies",
+        "text": "Chef privé pour un déjeuner, un dîner, un anniversaire chez vous.",
+        "button": "Réserver",
+        "message": "Bonjour Hugo ! J'aimerais organiser un repas chez moi. Lieu : ... Date : ... Nombre de personnes : ... Occasion : ..."
+      }
+    ],
+    "note": "Et partout ailleurs en France, sur demande."
   },
   "gallery": {
     "title": "À table",
