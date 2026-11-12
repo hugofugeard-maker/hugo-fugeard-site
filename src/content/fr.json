@@ -70,6 +70,7 @@
         "title": "L'hiver, en chalet",
         "places": "Courchevel · Méribel · Megève · Val d'Isère · Verbier · Gstaad",
         "text": "Chef privé pour votre séjour au ski. Les dîners, pour quelques jours ou tout votre séjour.",
+        "price": "Tarif : forfait journalier",
         "button": "Réserver",
         "message": "Bonjour Hugo ! J'aimerais un chef privé pour notre séjour en chalet. Station : ... Dates : ... Nombre de personnes : ..."
       },
@@ -77,6 +78,7 @@
         "title": "Toute l'année, à Annecy et autour",
         "places": "Lac d'Annecy · Les deux Savoies",
         "text": "Chef privé pour un déjeuner, un dîner, un anniversaire chez vous.",
+        "price": "Tarif : forfait par déjeuner ou dîner",
         "button": "Réserver",
         "message": "Bonjour Hugo ! J'aimerais organiser un repas chez moi. Lieu : ... Date : ... Nombre de personnes : ... Occasion : ..."
       }
@@ -122,7 +124,7 @@
       },
       {
         "title": "Votre proposition de menu",
-        "text": "Je vous envoie une proposition personnalisée pour chaque jour et chaque repas, que nous validons ensemble."
+        "text": "Je vous envoie une proposition personnalisée pour chaque jour et chaque repas, que nous validons ensemble. Mon tarif est un forfait : à la journée en chalet, au repas à Annecy et autour."
       },
       {
         "title": "L'acompte",
@@ -171,7 +173,7 @@
       },
       {
         "question": "Combien ça coûte ?",
-        "answer": "Chaque séjour est différent, alors je vous envoie une proposition personnalisée. Écrivez-moi avec vos dates, le lieu et le nombre de personnes."
+        "answer": "Je travaille au forfait : un forfait journalier pour les séjours en chalet, un forfait par déjeuner ou dîner à Annecy et autour. Vous connaissez le prix à l'avance, sans surprise. Les achats sont en plus, réglés à la fin avec les tickets. Écrivez-moi avec vos dates, le lieu et le nombre de personnes, et je vous réponds avec votre proposition."
       }
     ]
   },

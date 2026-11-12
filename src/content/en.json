@@ -70,6 +70,7 @@
         "title": "In winter, in your chalet",
         "places": "Courchevel · Méribel · Megève · Val d'Isère · Verbier · Gstaad",
         "text": "A private chef for your ski holiday. Dinners, for a few days or your whole stay.",
+        "price": "Rate: daily flat fee",
         "button": "Book",
         "message": "Hello Hugo! We'd like a private chef for our chalet stay. Resort: ... Dates: ... Number of guests: ..."
       },
@@ -77,6 +78,7 @@
         "title": "All year, in and around Annecy",
         "places": "Lake Annecy · Savoie and Haute-Savoie",
         "text": "A private chef for a lunch, a dinner or a birthday at your home.",
+        "price": "Rate: flat fee per lunch or dinner",
         "button": "Book",
         "message": "Hello Hugo! I'd like to organise a meal at home. Place: ... Date: ... Number of guests: ... Occasion: ..."
       }
@@ -122,7 +124,7 @@
       },
       {
         "title": "Your menu proposal",
-        "text": "I send you a personal proposal for each day and each meal, which we approve together."
+        "text": "I send you a personal proposal for each day and each meal, which we approve together. My rate is a flat fee: per day in chalets, per meal in and around Annecy."
       },
       {
         "title": "A deposit",
@@ -171,7 +173,7 @@
       },
       {
         "question": "How much does it cost?",
-        "answer": "Every stay is different, so I send a personal proposal. Write to me with your dates, the place and the size of your group."
+        "answer": "I work on a flat-fee basis: a daily rate for chalet stays, and a fee per lunch or dinner in and around Annecy. You know the price in advance, with no surprises. The shopping is extra, settled at the end with the receipts. Send me your dates, the place and the number of guests, and I'll reply with your proposal."
       }
     ]
   },
