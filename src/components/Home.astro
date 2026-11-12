@@ -38,7 +38,7 @@ const year = new Date().getFullYear();
       <h1>{t.hero.title}</h1>
       <p class="lead">{t.hero.text}</p>
       <div class="buttons">
-        <a class="button gold" href={wa} target="_blank" rel="noopener">{t.hero.primaryButton}</a>
+        <a class="button gold wa" href={wa} target="_blank" rel="noopener">{t.hero.primaryButton}</a>
         <a class="button line" href={mail}>{t.hero.secondaryButton}</a>
       </div>
     </div>
@@ -101,7 +101,7 @@ const year = new Date().getFullYear();
               <p>{item.text}</p>
               <p class="price">{item.price}</p>
               <div class="buttons">
-                <a class="button dark" href={whatsappUrl(item.message)} target="_blank" rel="noopener">{item.button}</a>
+                <a class="button dark wa" href={whatsappUrl(item.message)} target="_blank" rel="noopener">{item.button}</a>
               </div>
             </article>
           ))
@@ -167,7 +167,7 @@ const year = new Date().getFullYear();
       <h2>{t.partners.title}</h2>
       <p>{t.partners.text}</p>
       <div class="buttons">
-        <a class="button dark" href={whatsappUrl(t.partners.whatsappMessage)} target="_blank" rel="noopener">{t.partners.whatsappButton}</a>
+        <a class="button dark wa" href={whatsappUrl(t.partners.whatsappMessage)} target="_blank" rel="noopener">{t.partners.whatsappButton}</a>
         <a class="button line" href={partnersMail}>{t.partners.button}</a>
       </div>
     </div>
@@ -179,7 +179,7 @@ const year = new Date().getFullYear();
       <h2>{t.contact.title}</h2>
       <p>{t.contact.text}</p>
       <div class="buttons">
-        <a class="button gold" href={wa} target="_blank" rel="noopener">{t.contact.whatsappButton}</a>
+        <a class="button gold wa" href={wa} target="_blank" rel="noopener">{t.contact.whatsappButton}</a>
         <a class="button line" href={mail}>{t.contact.emailButton}</a>
       </div>
       <p class="contact-email"><a href={mail}>{site.email}</a></p>

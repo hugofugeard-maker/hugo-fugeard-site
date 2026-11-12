@@ -79,6 +79,9 @@ main > section.hero { align-items: center; padding: 120px 16px 10vh; }
   .hero-content > * { max-width: none; }
 }
 
+/* WhatsApp buttons get the green WhatsApp icon (Simple Icons, CC0) */
+.button.wa::before { content: ''; flex: none; width: 1.6em; height: 1.6em; margin-right: 0.7em; background: #25d366; -webkit-mask: url('https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/whatsapp.svg') center / contain no-repeat; mask: url('https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/whatsapp.svg') center / contain no-repeat; }
+
 /* About */
 .about-photo img { object-position: 38% 45%; }
 .about-grid { display: grid; grid-template-columns: 0.9fr 1.1fr; gap: 80px; align-items: center; }
