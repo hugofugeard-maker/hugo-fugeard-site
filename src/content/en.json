@@ -191,7 +191,9 @@
     "whatsappButton": "WhatsApp",
     "emailButton": "Email",
     "whatsappMessage": "Hi Hugo! I'd like to plan a stay with you. Dates: ... Place: ... Number of people: ...",
-    "emailSubject": "Private chef enquiry"
+    "emailSubject": "Private chef enquiry",
+    "image": "grande-table.jpg",
+    "imageAlt": "A long table set with many dishes to share"
   },
   "footer": {
     "tagline": "Private chef · French and Swiss Alps · Annecy",

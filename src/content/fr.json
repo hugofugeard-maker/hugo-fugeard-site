@@ -191,7 +191,9 @@
     "whatsappButton": "WhatsApp",
     "emailButton": "E-mail",
     "whatsappMessage": "Bonjour Hugo ! J'aimerais organiser un séjour avec vous. Dates : ... Lieu : ... Nombre de personnes : ...",
-    "emailSubject": "Demande de chef privé"
+    "emailSubject": "Demande de chef privé",
+    "image": "grande-table.jpg",
+    "imageAlt": "Une grande table dressée avec de nombreux plats à partager"
   },
   "footer": {
     "tagline": "Chef privé · Alpes françaises et suisses · Annecy",

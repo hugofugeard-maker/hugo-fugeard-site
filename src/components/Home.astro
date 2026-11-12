@@ -171,6 +171,9 @@ const year = new Date().getFullYear();
   </section>
 
   <section id="contact" class="contact">
+    <div class="contact-bg">
+      <Photo file={t.contact.image} alt={t.contact.imageAlt} sizes="100vw" widths={[800, 1200, 1800, 2400]} />
+    </div>
     <div class="wrap narrow">
       <span class="ornament" aria-hidden="true">✦</span>
       <h2>{t.contact.title}</h2>

@@ -127,6 +127,11 @@ details p { color: var(--muted-on-dark); padding-right: 40px; }
 .contact .ornament { margin-bottom: 20px; }
 .contact p { color: var(--muted-on-dark); font-size: 1.15rem; }
 .contact .buttons { justify-content: center; }
+.contact { position: relative; overflow: hidden; }
+.contact-bg { position: absolute; inset: 0; }
+.contact-bg img { object-position: 50% 45%; }
+.contact-bg::after { content: ''; position: absolute; inset: 0; background: rgb(28 23 19 / 0.74); }
+.contact > .wrap { position: relative; }
 .contact-email { margin-top: 1.6rem; font-size: 0.95rem !important; }
 
 /* Light sections that reuse the pillars and buttons */
