@@ -114,7 +114,7 @@
   },
   "process": {
     "title": "Comment ça marche",
-    "intro": "Du premier message au dernier dessert, voici comment on travaille ensemble.",
+    "intro": "De la première prise de contact au dessert.",
     "steps": [
       {
         "title": "Faisons connaissance",
@@ -122,27 +122,23 @@
       },
       {
         "title": "Votre proposition",
-        "text": "Je vous envoie une proposition personnalisée pour les jours et les repas dont vous avez besoin."
+        "text": "Je vous envoie une proposition personnalisée pour chaque jour et chaque repas."
       },
       {
         "title": "L'acompte",
-        "text": "Un acompte confirme vos dates. Elles sont à vous."
+        "text": "Un acompte confirme vos dates. Elles sont réservées pour vous."
       },
       {
         "title": "Le menu, ensemble",
-        "text": "On construit les menus ensemble. Vous les validez avant mon arrivée."
+        "text": "Nous concevons les menus ensemble."
       },
       {
-        "title": "Les courses",
-        "text": "L'idéal : les courses livrées à la maison. J'ai plus de temps pour cuisiner. Sinon, je m'occupe des courses."
-      },
-      {
-        "title": "Profitez",
-        "text": "Je m'occupe de la cuisine. Vous vous occupez de vos proches."
+        "title": "Les achats",
+        "text": "Je n'avance pas les frais, mais je m'en charge."
       },
       {
         "title": "On fait les comptes",
-        "text": "À la fin, on règle les courses et les frais éventuels, avec tous les tickets."
+        "text": "Avec les tickets."
       }
     ]
   },

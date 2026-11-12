@@ -114,7 +114,7 @@
   },
   "process": {
     "title": "How it works",
-    "intro": "From the first message to the last dessert, here's what working together looks like.",
+    "intro": "From the first contact to dessert.",
     "steps": [
       {
         "title": "Say hello",
@@ -122,27 +122,23 @@
       },
       {
         "title": "Your proposal",
-        "text": "I send you a personal proposal for the days and meals you need."
+        "text": "I send you a personal proposal for each day and each meal."
       },
       {
         "title": "A deposit",
-        "text": "A deposit confirms your dates. Then they're yours."
+        "text": "A deposit confirms your dates. They're reserved for you."
       },
       {
         "title": "The menu, together",
-        "text": "We build the menus together. You approve them before I arrive."
+        "text": "We design the menus together."
       },
       {
-        "title": "Groceries",
-        "text": "Ideally, groceries are delivered to the house. It gives me more time to cook. If not, I do the shopping."
-      },
-      {
-        "title": "Sit back",
-        "text": "I take care of the kitchen. You take care of your people."
+        "title": "The shopping",
+        "text": "I don't advance the costs, but I take care of it."
       },
       {
         "title": "Settle up",
-        "text": "At the end, we settle the groceries and any expenses, with every receipt."
+        "text": "With the receipts."
       }
     ]
   },
