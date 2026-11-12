@@ -16,32 +16,32 @@
   "hero": {
     "eyebrow": "Chef privé · Alpes françaises et suisses · Annecy",
     "title": "Votre chef privé, chef à domicile, où que vous soyez.",
-    "text": "L'hiver, retrouvez-moi en chalet privé : Courchevel, Méribel, Megève, Val d'Isère, Verbier, Gstaad. Le reste de l'année, dans vos locations de vacances ainsi que chez vous : Annecy et alentours. Une cuisine méditerranéenne du cœur, servie à votre table.",
+    "text": "L'hiver, retrouvez-moi en chalet privé : Courchevel, Méribel, Megève, Val d'Isère, Verbier, Gstaad. Le reste de l'année, dans vos locations de vacances ainsi que chez vous : Annecy et alentours. Une cuisine méditerranéenne du cœur, servie à votre table.",
     "primaryButton": "M'écrire sur WhatsApp",
     "secondaryButton": "Envoyer un e-mail",
     "image": "hero.jpg",
     "imageAlt": "Une longue table dressée sous les arbres, prête pour un repas à partager"
   },
   "about": {
-    "title": "Être un chef privé : discrétion, rigueur, générosité",
+    "title": "Être un chef privé : discrétion, rigueur, générosité",
     "paragraphs": [
       "Venir à vous, en chalet dans les Alpes françaises et suisses comme chez vous autour du lac d'Annecy, pour que vous n'ayez à penser à rien d'autre qu'à vos proches."
     ],
     "values": [
       {
         "title": "Discrétion",
-        "text": "Ce qui se passe à votre table reste à votre table. Confidentialité totale : ni photos, ni divulgation d'identités."
+        "text": "Ce qui se passe à votre table reste à votre table. Confidentialité totale : ni photos, ni divulgation d'identités."
       },
       {
         "title": "Rigueur",
-        "text": "Pas d'intermédiaire : je cuisine personnellement pour vous, du premier au dernier repas."
+        "text": "Pas d'intermédiaire : je cuisine personnellement pour vous, du premier au dernier repas."
       },
       {
         "title": "Générosité",
         "text": "Une cuisine réconfortante, sincère et du cœur."
       }
     ],
-    "quote": "Ma cuisine de prédilection est la méditerranéenne : produits frais d'exception, saveurs franches, des grands classiques aux assiettes plus raffinées. D'autres envies ? Discutons-en !",
+    "quote": "Ma cuisine de prédilection est la méditerranéenne : produits frais d'exception, saveurs franches, des grands classiques aux assiettes plus raffinées. D'autres envies ? Discutons-en !",
     "image": "hugo.jpg",
     "imageAlt": "Hugo en cuisine, souriant"
   },
@@ -51,11 +51,11 @@
     "items": [
       {
         "title": "À partager",
-        "text": "Les entrées et les plats au milieu de la table : chacun se sert comme bon lui semble, dans un esprit familial et réconfortant."
+        "text": "Les entrées et les plats au milieu de la table : chacun se sert comme bon lui semble, dans un esprit familial et réconfortant."
       },
       {
         "title": "À l'assiette",
-        "text": "Le service à la française et un dressage maîtrisé : couleur, texture, cuisson juste, sauce, saisonnalité."
+        "text": "Le service à la française et un dressage maîtrisé : couleur, texture, cuisson juste, sauce, saisonnalité."
       },
       {
         "title": "Fait pour vous",
@@ -76,14 +76,14 @@
         "places": "Courchevel · Méribel · Megève · Val d'Isère · Verbier · Gstaad",
         "text": "Chef privé pour votre séjour au ski. Les dîners, pour quelques jours ou tout votre séjour.",
         "button": "Réserver",
-        "message": "Bonjour Hugo ! J'aimerais un chef privé pour notre séjour en chalet. Station : ... Dates : ... Nombre de personnes : ..."
+        "message": "Bonjour Hugo ! J'aimerais un chef privé pour notre séjour en chalet. Station : ... Dates : ... Nombre de personnes : ..."
       },
       {
         "title": "Toute l'année, à Annecy et autour",
         "places": "Lac d'Annecy · Les deux Savoies",
         "text": "Chef privé pour un déjeuner, un dîner, un anniversaire chez vous.",
         "button": "Réserver",
-        "message": "Bonjour Hugo ! J'aimerais organiser un repas chez moi. Lieu : ... Date : ... Nombre de personnes : ... Occasion : ..."
+        "message": "Bonjour Hugo ! J'aimerais organiser un repas chez moi. Lieu : ... Date : ... Nombre de personnes : ... Occasion : ..."
       }
     ],
     "note": "Et partout ailleurs en France, sur demande."
@@ -139,7 +139,7 @@
       },
       {
         "title": "Les courses",
-        "text": "L'idéal : les courses livrées à la maison. J'ai plus de temps pour cuisiner. Sinon, je m'occupe des courses."
+        "text": "L'idéal : les courses livrées à la maison. J'ai plus de temps pour cuisiner. Sinon, je m'occupe des courses."
       },
       {
         "title": "Profitez",
@@ -155,42 +155,42 @@
     "title": "Questions",
     "items": [
       {
-        "question": "Que fait un chef privé, concrètement ?",
-        "answer": "Je viens dans votre maison ou votre location de vacances et je cuisine pour vous pendant votre séjour : tous les repas, ou seulement les grandes soirées. On prépare les menus ensemble, je cuisine sur place et je sers à table."
+        "question": "Que fait un chef privé, concrètement ?",
+        "answer": "Je viens dans votre maison ou votre location de vacances et je cuisine pour vous pendant votre séjour : tous les repas, ou seulement les grandes soirées. On prépare les menus ensemble, je cuisine sur place et je sers à table."
       },
       {
-        "question": "Et si la cuisine est petite ou peu équipée ?",
+        "question": "Et si la cuisine est petite ou peu équipée ?",
         "answer": "Aucun problème. J'adapte le menu à la cuisine. Un grand four et beaucoup de casseroles me permettent d'aller vers le raffiné. Une cuisine simple, c'est un beau repas de famille."
       },
       {
-        "question": "Vous vous déplacez hors de France ?",
+        "question": "Vous vous déplacez hors de France ?",
         "answer": "Oui. L'hiver, je travaille surtout dans les stations des Alpes françaises et suisses. Le reste de l'année, je cuisine à Annecy et autour, et je me déplace partout en France sur demande. Le déplacement est inclus dans votre proposition."
       },
       {
-        "question": "La maison est difficile d'accès. C'est un problème ?",
-        "answer": "Dites-moi où elle se trouve. On organise le trajet ensemble : voiture, navette ou covoiturage."
+        "question": "La maison est difficile d'accès. C'est un problème ?",
+        "answer": "Dites-moi où elle se trouve. On organise le trajet ensemble : voiture, navette ou covoiturage."
       },
       {
-        "question": "Allergies, régimes, enfants difficiles ?",
+        "question": "Allergies, régimes, enfants difficiles ?",
         "answer": "Bien sûr. Parlez-moi des allergies, de ce que vous n'aimez pas et des habitudes des enfants quand on prépare le menu. Tout le monde mange bien."
       },
       {
-        "question": "Qui fait les courses ?",
+        "question": "Qui fait les courses ?",
         "answer": "L'idéal est une livraison d'un supermarché local, parce que j'ai plus de temps pour cuisiner. Sinon, je fais les courses moi-même. Les courses sont facturées au prix coûtant, avec les tickets."
       },
       {
-        "question": "Vous faites aussi le service et le ménage ?",
+        "question": "Vous faites aussi le service et le ménage ?",
         "answer": "Je m'occupe de la cuisine et des repas. Pour les grands groupes, je peux venir avec un assistant ou un maître d'hôtel pour le service, les verres et le rangement. Sur demande."
       },
       {
-        "question": "Combien ça coûte ?",
+        "question": "Combien ça coûte ?",
         "answer": "Chaque séjour est différent, alors je vous envoie une proposition personnalisée. Écrivez-moi avec vos dates, le lieu et le nombre de personnes."
       }
     ]
   },
   "partners": {
-    "title": "Vous gérez des chalets ?",
-    "text": "Conciergeries, agences de location, propriétaires à Courchevel, Méribel, Megève, Val d'Isère, Verbier ou Gstaad : proposez l'option chef privé à vos clients. Je prépare les menus avec eux et je cuisine sur place pendant leur séjour.",
+    "title": "Vous gérez des chalets ?",
+    "text": "Conciergeries, agences de location, propriétaires à Courchevel, Méribel, Megève, Val d'Isère, Verbier ou Gstaad : proposez l'option chef privé à vos clients. Je prépare les menus avec eux et je cuisine sur place pendant leur séjour.",
     "button": "Me contacter",
     "emailSubject": "Option chef privé pour mes clients"
   },
@@ -199,7 +199,7 @@
     "text": "Envoyez-moi vos dates, le lieu et le nombre de personnes. Je m'occupe du reste.",
     "whatsappButton": "WhatsApp",
     "emailButton": "E-mail",
-    "whatsappMessage": "Bonjour Hugo ! J'aimerais organiser un séjour avec vous. Dates : ... Lieu : ... Nombre de personnes : ...",
+    "whatsappMessage": "Bonjour Hugo ! J'aimerais organiser un séjour avec vous. Dates : ... Lieu : ... Nombre de personnes : ...",
     "emailSubject": "Demande de chef privé"
   },
   "footer": {
