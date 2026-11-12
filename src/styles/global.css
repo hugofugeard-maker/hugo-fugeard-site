@@ -136,6 +136,8 @@ details p { color: var(--muted-on-dark); padding-right: 40px; }
 .partners { text-align: center; }
 .partners p { color: var(--muted); font-size: 1.15rem; }
 .partners .buttons { justify-content: center; }
+.light .button.line { border-color: var(--gold-dark); color: var(--gold-dark); }
+.light .button.line:hover { background: var(--gold-dark); color: var(--linen); }
 
 .pillars.two { grid-template-columns: repeat(2, 1fr); }
 .pillars.four { grid-template-columns: repeat(4, 1fr); }

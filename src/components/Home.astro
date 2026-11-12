@@ -167,7 +167,8 @@ const year = new Date().getFullYear();
       <h2>{t.partners.title}</h2>
       <p>{t.partners.text}</p>
       <div class="buttons">
-        <a class="button dark" href={partnersMail}>{t.partners.button}</a>
+        <a class="button dark" href={whatsappUrl(t.partners.whatsappMessage)} target="_blank" rel="noopener">{t.partners.whatsappButton}</a>
+        <a class="button line" href={partnersMail}>{t.partners.button}</a>
       </div>
     </div>
   </section>
