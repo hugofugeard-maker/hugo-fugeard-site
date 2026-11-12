@@ -11,7 +11,6 @@ const { locale } = Astro.props;
 const t = getContent(locale);
 const wa = whatsappUrl(t.contact.whatsappMessage);
 const mail = emailUrl(t.contact.emailSubject);
-const partnersMail = emailUrl(t.partners.emailSubject);
 const year = new Date().getFullYear();
 ---
 
@@ -39,7 +38,6 @@ const year = new Date().getFullYear();
       <p class="lead">{t.hero.text}</p>
       <div class="buttons">
         <a class="button gold wa" href={wa} target="_blank" rel="noopener">{t.hero.primaryButton}</a>
-        <a class="button line" href={mail}>{t.hero.secondaryButton}</a>
       </div>
     </div>
   </section>
@@ -168,7 +166,6 @@ const year = new Date().getFullYear();
       <p>{t.partners.text}</p>
       <div class="buttons">
         <a class="button dark wa" href={whatsappUrl(t.partners.whatsappMessage)} target="_blank" rel="noopener">{t.partners.whatsappButton}</a>
-        <a class="button line" href={partnersMail}>{t.partners.button}</a>
       </div>
     </div>
   </section>
@@ -182,7 +179,6 @@ const year = new Date().getFullYear();
         <a class="button gold wa" href={wa} target="_blank" rel="noopener">{t.contact.whatsappButton}</a>
         <a class="button line" href={mail}>{t.contact.emailButton}</a>
       </div>
-      <p class="contact-email"><a href={mail}>{site.email}</a></p>
     </div>
   </section>
 </main>
