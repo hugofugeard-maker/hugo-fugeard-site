@@ -115,9 +115,17 @@ const year = new Date().getFullYear();
     <div class="masonry">
       {
         t.gallery.images.map((img) => (
-          <figure>
-            <Photo file={img.file} alt={img.alt} sizes="(min-width: 900px) 33vw, 100vw" />
-          </figure>
+          img.stack ? (
+            <figure class="stack">
+              {img.stack.map((part) => (
+                <Photo file={part.file} alt={part.alt} sizes="(min-width: 900px) 33vw, 100vw" />
+              ))}
+            </figure>
+          ) : (
+            <figure>
+              <Photo file={img.file} alt={img.alt} sizes="(min-width: 900px) 33vw, 100vw" />
+            </figure>
+          )
         ))
       }
     </div>

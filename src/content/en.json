@@ -101,12 +101,16 @@
         "alt": "Friends laughing around the table"
       },
       {
-        "file": "cepes.jpg",
-        "alt": "A tray of fresh porcini mushrooms from the market"
-      },
-      {
-        "file": "sole.jpg",
-        "alt": "A huge whole sole, just arrived in the kitchen"
+        "stack": [
+          {
+            "file": "cepes.jpg",
+            "alt": "A tray of fresh porcini mushrooms from the market"
+          },
+          {
+            "file": "sole.jpg",
+            "alt": "A huge whole sole, just arrived in the kitchen"
+          }
+        ]
       },
       {
         "file": "table-5.jpg",
