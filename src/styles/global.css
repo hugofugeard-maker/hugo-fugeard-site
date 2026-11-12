@@ -80,6 +80,7 @@ main > section.hero { align-items: center; padding: 120px 16px 10vh; }
 }
 
 /* About */
+.about-photo img { object-position: 38% 45%; }
 .about-grid { display: grid; grid-template-columns: 0.9fr 1.1fr; gap: 80px; align-items: center; }
 .about-photo { aspect-ratio: 4 / 5; overflow: hidden; }
 .about p { font-size: 1.1rem; color: var(--muted); }
