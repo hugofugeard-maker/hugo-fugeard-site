@@ -135,8 +135,8 @@
         "text": "Je n'avance pas les achats, mais je m'en charge."
       },
       {
-        "title": "On fait les comptes",
-        "text": "Avec les tickets."
+        "title": "On vérifie ensemble",
+        "text": "Tous les achats sont contrôlés grâce aux tickets."
       }
     ]
   },
@@ -162,10 +162,6 @@
       {
         "question": "Allergies, régimes, enfants difficiles ?",
         "answer": "Bien sûr. Parlez-moi des allergies, de ce que vous n'aimez pas et des habitudes des enfants quand on prépare le menu. Tout le monde mange bien."
-      },
-      {
-        "question": "Qui fait les courses ?",
-        "answer": "L'idéal est une livraison d'un supermarché local, parce que j'ai plus de temps pour cuisiner. Sinon, je fais les courses moi-même. Les courses sont facturées au prix coûtant, avec les tickets."
       },
       {
         "question": "Vous faites aussi le service et le ménage ?",
