@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Hugo Fugeard · Chef privé dans les Alpes et à Annecy",
-    "description": "Chef privé en chalet l'hiver à Courchevel, Méribel, Megève, Val d'Isère, Verbier et Gstaad. Toute l'année, chef privé à Annecy et alentours pour vos dîners et vos événements. Cuisine méditerranéenne."
+    "description": "Chef privé en chalet l'hiver à Courchevel, Méribel, Megève, Val d'Isère, Verbier et Gstaad. Toute l'année, chef privé à Annecy et alentours pour vos dîners et vos événements. Une cuisine sur mesure, inspirée de tout le bassin méditerranéen."
   },
   "nav": {
     "about": "Mes valeurs",
@@ -16,7 +16,7 @@
   "hero": {
     "eyebrow": "Chef privé · Alpes françaises et suisses · Annecy",
     "title": "Votre chef privé, chef à domicile, où que vous soyez.",
-    "text": "L'hiver, retrouvez-moi en chalet privé : Courchevel, Méribel, Megève, Val d'Isère, Verbier, Gstaad. Le reste de l'année, dans vos locations de vacances ainsi que chez vous : Annecy et alentours. Une cuisine méditerranéenne du cœur, servie à votre table.",
+    "text": "L'hiver, retrouvez-moi en chalet privé : Courchevel, Méribel, Megève, Val d'Isère, Verbier, Gstaad. Le reste de l'année, dans vos locations de vacances ainsi que chez vous : Annecy et alentours. Une cuisine sur mesure, aux couleurs de la Méditerranée, faite avec le cœur et servie à votre table.",
     "primaryButton": "M'écrire sur WhatsApp",
     "secondaryButton": "Envoyer un e-mail",
     "image": "hugo-chef.jpg",
@@ -41,7 +41,7 @@
         "text": "Une cuisine réconfortante, sincère, faite avec le cœur."
       }
     ],
-    "quote": "Ma cuisine de prédilection est la méditerranéenne : produits frais d'exception, saveurs authentiques, des grands classiques aux assiettes plus raffinées. D'autres envies ? Discutons-en !",
+    "quote": "La cuisine que je maîtrise le mieux est celle de tout le bassin méditerranéen, de la France à l'Italie, de l'Espagne à la Grèce. C'est dans cet univers que je compose vos menus sur mesure, des grands classiques aux assiettes plus raffinées. Produits frais d'exception, saveurs authentiques. Une envie particulière ? Discutons-en !",
     "image": "hugo-chalet.jpg",
     "imageAlt": "Hugo Fugeard en cuisine dans un chalet, en veste noire"
   },
