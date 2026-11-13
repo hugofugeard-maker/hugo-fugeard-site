@@ -16,7 +16,7 @@
   "hero": {
     "eyebrow": "Chef privé · Alpes françaises et suisses · Annecy",
     "title": "Votre chef privé, chef à domicile, où que vous soyez.",
-    "text": "L'hiver, retrouvez-moi en chalet privé : Courchevel, Méribel, Megève, Val d'Isère, Verbier, Gstaad. Le reste de l'année, dans vos locations de vacances ainsi que chez vous : Annecy et alentours. Une cuisine sur mesure, aux couleurs de la Méditerranée, faite avec le cœur et servie à votre table.",
+    "text": "L'hiver, retrouvez-moi en chalet privé : Courchevel, Méribel, Megève, Val d'Isère, Verbier, Gstaad. Le reste de l'année, dans vos locations de vacances ainsi que chez vous : Annecy et alentours. Une cuisine sur mesure, faite avec le cœur et servie à votre table.",
     "primaryButton": "M'écrire sur WhatsApp",
     "secondaryButton": "Envoyer un e-mail",
     "image": "hugo-chef.jpg",
@@ -41,7 +41,7 @@
         "text": "Une cuisine réconfortante, sincère, faite avec le cœur."
       }
     ],
-    "quote": "La cuisine que je maîtrise le mieux est celle de tout le bassin méditerranéen, de la France à l'Italie, de l'Espagne à la Grèce. C'est dans cet univers que je compose vos menus sur mesure, des grands classiques aux assiettes plus raffinées. Produits frais d'exception, saveurs authentiques. Une envie particulière ? Discutons-en !",
+    "quote": "Ma cuisine de prédilection est la méditerranéenne : produits frais d'exception, saveurs authentiques, des grands classiques aux assiettes plus raffinées. D'autres envies ? Discutons-en !",
     "image": "hugo-chalet.jpg",
     "imageAlt": "Hugo Fugeard en cuisine dans un chalet, en veste noire"
   },
@@ -174,6 +174,10 @@
       {
         "question": "À combien s'élève l'acompte ?",
         "answer": "L'acompte est de 25 % du devis total. Il confirme vos dates, qui sont alors réservées pour vous."
+      },
+      {
+        "question": "Quelle cuisine proposez-vous ?",
+        "answer": "Je maîtrise la cuisine de tout le bassin méditerranéen, de la France à l'Italie, de l'Espagne à la Grèce. C'est dans cet univers que je compose vos menus sur mesure. La cuisine asiatique, par exemple, n'est pas mon domaine."
       }
     ]
   },
