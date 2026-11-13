@@ -4,7 +4,7 @@
     "description": "Private chef in ski chalets in winter: Courchevel, Méribel, Megève, Val d'Isère, Verbier and Gstaad. All year round, private chef in and around Annecy for dinners and events. Mediterranean cooking."
   },
   "nav": {
-    "about": "Your private chef",
+    "about": "My values",
     "offers": "Services",
     "approach": "My work",
     "process": "How it works",
@@ -23,14 +23,14 @@
     "imageAlt": "Hugo Fugeard, private chef, in his black chef's jacket in the kitchen"
   },
   "about": {
-    "title": "Your private chef:",
+    "title": "My values:",
     "paragraphs": [
-      "Coming to you, in a chalet in the French and Swiss Alps or around Lake Annecy, so all you have to do is enjoy."
+      "In a chalet in the French and Swiss Alps or around Lake Annecy, so all you have to do is enjoy."
     ],
     "values": [
       {
         "title": "Discretion",
-        "text": "What happens at your table stays at your table. Total confidentiality: no photos, no names disclosed."
+        "text": "What happens at your table stays at your table. Total confidentiality: no photo, no name disclosed."
       },
       {
         "title": "Rigour",
@@ -38,16 +38,16 @@
       },
       {
         "title": "Generosity",
-        "text": "Comforting, sincere cooking from the heart."
+        "text": "Comforting, sincere cooking, made from the heart."
       }
     ],
-    "quote": "Mediterranean is the cuisine I love most: exceptional fresh produce, honest flavours, from the great classics to more refined plates. Other cravings? Let's talk!",
+    "quote": "Mediterranean is the cuisine I love most: exceptional fresh produce, authentic flavours, from the great classics to more refined plates. Other cravings? Let's talk!",
     "image": "hugo-chalet.jpg",
     "imageAlt": "Hugo Fugeard cooking in a chalet kitchen, in his black chef's jacket"
   },
   "approach": {
     "title": "My work",
-    "intro": "Every group and every place is different. I adapt to every situation.",
+    "intro": "Every family and every place is different. I adapt to every situation.",
     "items": [
       {
         "title": "Family style",
@@ -69,7 +69,7 @@
       {
         "title": "In winter, in your chalet",
         "places": "Courchevel · Méribel · Megève · Val d'Isère · Verbier · Gstaad",
-        "text": "A private chef for your ski holiday. Dinners, for a few days or your whole stay.",
+        "text": "A private chef for your ski holiday. Up to 16 guests.",
         "price": "Rate: daily flat fee",
         "button": "Book",
         "message": "Hello Hugo! We'd like a private chef for our chalet stay. Resort: ... Dates: ... Number of guests: ..."
@@ -77,7 +77,7 @@
       {
         "title": "All year, in and around Annecy",
         "places": "Lake Annecy · Savoie and Haute-Savoie",
-        "text": "A private chef for a lunch, a dinner or a birthday at your home.",
+        "text": "A private chef for a lunch, a dinner or a birthday at your home. Up to 16 guests.",
         "price": "Rate: flat fee per lunch or dinner",
         "button": "Book",
         "message": "Hello Hugo! I'd like to organise a meal at home. Place: ... Date: ... Number of guests: ... Occasion: ..."
@@ -136,11 +136,11 @@
       },
       {
         "title": "A deposit",
-        "text": "A deposit confirms your dates. They're reserved for you."
+        "text": "A deposit confirms your dates."
       },
       {
         "title": "The shopping",
-        "text": "I don't pay for the shopping upfront, but I take care of it."
+        "text": "I don't pay for the shopping upfront."
       },
       {
         "title": "We check together",

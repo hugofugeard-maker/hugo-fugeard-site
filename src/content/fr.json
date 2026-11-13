@@ -4,7 +4,7 @@
     "description": "Chef privé en chalet l'hiver à Courchevel, Méribel, Megève, Val d'Isère, Verbier et Gstaad. Toute l'année, chef privé à Annecy et autour pour vos dîners et vos événements. Cuisine méditerranéenne."
   },
   "nav": {
-    "about": "Votre chef privé",
+    "about": "Mes valeurs",
     "offers": "Mes services",
     "approach": "Mon travail",
     "process": "Comment ça marche",
@@ -23,14 +23,14 @@
     "imageAlt": "Hugo Fugeard, chef privé, en veste noire dans sa cuisine"
   },
   "about": {
-    "title": "Votre chef privé :",
+    "title": "Mes valeurs :",
     "paragraphs": [
-      "Venir à vous, en chalet dans les Alpes françaises et suisses comme autour du lac d'Annecy, pour que vous n'ayez qu'à profiter."
+      "En chalet dans les Alpes françaises et suisses comme autour du lac d'Annecy, pour que vous n'ayez qu'à profiter."
     ],
     "values": [
       {
         "title": "Discrétion",
-        "text": "Ce qui se passe à votre table reste à votre table. Confidentialité totale : ni photos, ni divulgation d'identités."
+        "text": "Ce qui se passe à votre table reste à votre table. Confidentialité totale : ni photo, ni divulgation d'identité."
       },
       {
         "title": "Rigueur",
@@ -38,16 +38,16 @@
       },
       {
         "title": "Générosité",
-        "text": "Une cuisine réconfortante, sincère et du cœur."
+        "text": "Une cuisine réconfortante, sincère, faite avec le cœur."
       }
     ],
-    "quote": "Ma cuisine de prédilection est la méditerranéenne : produits frais d'exception, saveurs franches, des grands classiques aux assiettes plus raffinées. D'autres envies ? Discutons-en !",
+    "quote": "Ma cuisine de prédilection est la méditerranéenne : produits frais d'exception, saveurs authentiques, des grands classiques aux assiettes plus raffinées. D'autres envies ? Discutons-en !",
     "image": "hugo-chalet.jpg",
     "imageAlt": "Hugo Fugeard en cuisine dans un chalet, en veste noire"
   },
   "approach": {
     "title": "Mon travail",
-    "intro": "Chaque groupe, chaque lieu est différent. Je m'adapte à chaque situation.",
+    "intro": "Chaque famille, chaque lieu est différent. Je m'adapte à chaque situation.",
     "items": [
       {
         "title": "À partager",
@@ -69,7 +69,7 @@
       {
         "title": "L'hiver, en chalet",
         "places": "Courchevel · Méribel · Megève · Val d'Isère · Verbier · Gstaad",
-        "text": "Chef privé pour votre séjour au ski. Les dîners, pour quelques jours ou tout votre séjour.",
+        "text": "Chef privé pour votre séjour au ski. Jusqu'à 16 personnes.",
         "price": "Tarif : forfait journalier",
         "button": "Réserver",
         "message": "Bonjour Hugo ! J'aimerais un chef privé pour notre séjour en chalet. Station : ... Dates : ... Nombre de personnes : ..."
@@ -77,7 +77,7 @@
       {
         "title": "Toute l'année, à Annecy et autour",
         "places": "Lac d'Annecy · Les deux Savoies",
-        "text": "Chef privé pour un déjeuner, un dîner, un anniversaire chez vous.",
+        "text": "Chef privé pour un déjeuner, un dîner, un anniversaire chez vous. Jusqu'à 16 personnes.",
         "price": "Tarif : forfait par déjeuner ou dîner",
         "button": "Réserver",
         "message": "Bonjour Hugo ! J'aimerais organiser un repas chez moi. Lieu : ... Date : ... Nombre de personnes : ... Occasion : ..."
@@ -90,7 +90,7 @@
     "images": [
       {
         "file": "salade.jpg",
-        "alt": "Salade composée : œufs mollets, copeaux de parmesan, tomates, radis et jeunes pousses"
+        "alt": "Salade composée : œufs mollets, copeaux de parmesan, tomates, radis et jeunes pousses"
       },
       {
         "file": "langoustines.jpg",
@@ -136,11 +136,11 @@
       },
       {
         "title": "L'acompte",
-        "text": "Un acompte confirme vos dates. Elles sont réservées pour vous."
+        "text": "Un acompte confirme vos dates."
       },
       {
         "title": "Les achats",
-        "text": "Je n'avance pas les achats, mais je m'en charge."
+        "text": "Je n'avance pas les achats."
       },
       {
         "title": "On vérifie ensemble",
