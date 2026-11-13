@@ -145,6 +145,10 @@
       {
         "title": "On vérifie ensemble",
         "text": "Tous les achats sont contrôlés grâce aux tickets."
+      },
+      {
+        "title": "Le paiement",
+        "text": "Paiement en fin de prestation, sur présentation de facture."
       }
     ]
   },

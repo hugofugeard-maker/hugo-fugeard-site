@@ -145,6 +145,10 @@
       {
         "title": "We check together",
         "text": "All the shopping is checked against the receipts."
+      },
+      {
+        "title": "Payment",
+        "text": "Payment at the end of the service, on presentation of an invoice."
       }
     ]
   },
