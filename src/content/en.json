@@ -136,7 +136,7 @@
       },
       {
         "title": "A deposit",
-        "text": "A deposit confirms your dates."
+        "text": "A deposit confirms your dates and makes your booking binding."
       },
       {
         "title": "The shopping",
@@ -148,7 +148,7 @@
       },
       {
         "title": "Payment",
-        "text": "Payment at the end of the service, on presentation of an invoice."
+        "text": "Payment at the end of the service, on presentation of the invoice."
       }
     ]
   },

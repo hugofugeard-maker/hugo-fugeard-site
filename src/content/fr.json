@@ -136,7 +136,7 @@
       },
       {
         "title": "L'acompte",
-        "text": "Un acompte confirme vos dates."
+        "text": "Un acompte confirme vos dates et vous engage."
       },
       {
         "title": "Les achats",
@@ -148,7 +148,7 @@
       },
       {
         "title": "Le paiement",
-        "text": "Paiement en fin de prestation, sur présentation de facture."
+        "text": "Paiement en fin de prestation, sur présentation de la facture."
       }
     ]
   },
